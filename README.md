@@ -1,7 +1,14 @@
-# Habitura Privacy Policy
+# Habitura website
 
-Public privacy policy for the Habitura Android app, served with GitHub Pages:
+Static website for the Habitura Android app, served with GitHub Pages at https://www.habitura.co.in
 
-https://patelraj0299-a11y.github.io/habitura-privacy/privacy-policy.html
+| Page | Path |
+|---|---|
+| Home | `/` (`index.html`) |
+| Privacy Policy & Terms | `/privacy-policy/` |
+| About your data | `/about-data/` |
+
+`privacy-policy.html` redirects to `/privacy-policy/` so older links keep working.
+Shared styles, logo and screenshots are in `assets/`.
 
 The app source lives in a separate private repository.
